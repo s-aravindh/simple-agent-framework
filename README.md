@@ -2,6 +2,8 @@
 
 A lightweight agent framework combining the best aspects of Pydantic-AI and OpenAI Agents SDK.
 
+> **⚠️ WARNING:** This is an educational and learning framework inspired by OpenAI Agents SDK and Pydantic-AI. It is designed for learning and experimentation purposes only and is **not recommended for production usage**. The implementation focuses on clarity and simplicity rather than performance, security, or scalability needed in production environments.
+
 ## Features
 
 - Simple, minimal API inspired by OpenAI Agents SDK
